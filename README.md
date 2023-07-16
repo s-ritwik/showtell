@@ -1,4 +1,4 @@
-# Model Zoo
+# captain generator
 
 this is implmentation of various papers
 
