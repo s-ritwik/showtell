@@ -1,6 +1,6 @@
 # Model Zoo
 
-This repository contains implementations of various deep learning research papers.
+this is implmentation of various papers
 
 The models are broadly categorised into the folders [Generative](/generative_models) (e.g. various generative models), [NLP](/NLP) (e.g. various recurrent neural networks (RNNs) and natural language processing (NLP) models), [Classification](/classification) (e.g. various CNN models to classify images), [Object Detection](/object_detection), [Multimodal](/multimodal_models) , [Super resolution](/super_resolution) , [3D Computer Vision](/vision3d),
  [Semantic Segmentation](/semantic_segmentation).
